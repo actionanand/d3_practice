@@ -1,0 +1,12 @@
+.container {
+    width: 250px;
+    height: 200px;
+    /* display: flex;
+    justify-content: space-around; */
+    border: solid 1px #075507;
+}
+
+.bar {
+    /* background-color: #075507; */
+    fill: #075507;
+}
